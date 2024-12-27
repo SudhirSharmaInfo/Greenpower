@@ -684,7 +684,7 @@ body {
     }
 
     .navigation-logo {
-        width: 30%;
+        width: 40%;
         height: 100%;
         /* background-color: aqua; */
         display: flex;
@@ -717,11 +717,11 @@ body {
     }
 
     .navigation-ham i {
-        font-size: 0.9rem;
+        font-size: 1rem;
         margin-right: 40px;
     }
     .navigation-ham span{
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 
     .navigation-option-mobile{
