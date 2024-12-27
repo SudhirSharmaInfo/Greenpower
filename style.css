@@ -714,6 +714,8 @@ body {
         align-items: center;
         font-family: "Inter", sans-serif;
         /* background-color: #57b33e; */
+        padding-right:1%;
+        box-sizing: border-box;
     }
 
     .navigation-ham i {
