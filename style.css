@@ -678,7 +678,7 @@ body {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 0% 1%;
+        padding: 0% 2% 0% 1%;
         box-sizing: border-box;
         /* background-color: pink; */
     }
@@ -714,8 +714,6 @@ body {
         align-items: center;
         font-family: "Inter", sans-serif;
         /* background-color: #57b33e; */
-        padding-right:2%;
-        box-sizing: border-box;
     }
 
     .navigation-ham i {
