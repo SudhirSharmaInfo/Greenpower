@@ -3265,11 +3265,12 @@ body {
     box-sizing: border-box;
     background-color: #292e36;
     border-radius: 5px;
-    transition: background-color 0.3s;
+    transition: 0.3s;
     cursor: pointer;
 }
 .top-first-icon i:hover {
     background-color: #57b33e;
+    box-shadow: 0px 0px 10px #57b33e;
 }
 
 .footer-top-second{
@@ -3477,11 +3478,12 @@ body {
         box-sizing: border-box;
         background-color: #292e36;
         border-radius: 5px;
-        transition: background-color 0.3s;
+        transition: 0.3s;
     }
    
     .top-first-icon i:hover {
         background-color: #57b33e;
+        box-shadow: 0px 0px 10px #57b33e;
     }
     
     .footer-top-second{
@@ -3692,11 +3694,12 @@ body {
         box-sizing: border-box;
         background-color: #292e36;
         border-radius: 5px;
-        transition: background-color 0.3s;
+        transition: 0.3s;
     }
    
     .top-first-icon i:hover {
         background-color: #57b33e;
+        box-shadow: 0px 0px 10px #57b33e;
     }
     
     .footer-top-second{
@@ -3921,11 +3924,12 @@ body {
         box-sizing: border-box;
         background-color: #292e36;
         border-radius: 5px;
-        transition: background-color 0.3s;
+        transition: 0.3s;
     }
    
     .top-first-icon i:hover {
         background-color: #57b33e;
+        box-shadow: 0px 0px 10px #57b33e;
     }
     
     .footer-top-second{
