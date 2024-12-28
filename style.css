@@ -2846,8 +2846,7 @@ body {
         /* background-color: whitesmoke; */
         background-image: url(images/shape-13.jpg);
         background-position: cover;
-        
-        margin-top: 5%;
+        margin-top: 10%;
     }
     .project-section-res{
         width: 90%;
@@ -3143,7 +3142,7 @@ body {
         height: auto;
         display: flex;
         justify-content: center;
-        margin-top: 5%;
+        margin-top: 10%;
         /* background-color: pink; */
     }
     .blog-section-res{
@@ -3851,7 +3850,7 @@ body {
         display: flex;
         justify-content: center;
         background-color: #1f242c;
-        margin-top: 5%;
+        margin-top: 10%;
         background-image: url(images/shape-13.png);
         background-repeat: no-repeat;
         background-size: contain;
